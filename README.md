@@ -17,6 +17,8 @@ fn main() {
         .enhancing(productivity)
         .compile_to("reliable_magic");
 }
+```
+
 ## 🛠️ Technical Arsenal
 - Rust Virtuoso: Ownership/Borrowing, Unsafe Rust, FFI, Embedded, WASM
 - Performance Alchemist: Zero-cost abstractions, fearless concurrency
