@@ -27,3 +27,4 @@ fn main() {
 
 🔭 Current Focus
 - Crypto trading bot development
+[working on](https://adams-gmgn.vercel.app/)
